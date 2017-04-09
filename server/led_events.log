@@ -1,0 +1,515 @@
+2017-04-08 14:50:49,964: INFO: Pins initialized
+2017-04-08 14:50:49,969: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 14:50:49,972: DEBUG: Binding to port 9988
+2017-04-08 14:51:00,670: DEBUG: New client connected ('10.43.13.71', 55865)
+2017-04-08 14:51:00,672: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 14:51:38,396: DEBUG: New client connected ('10.43.13.71', 55867)
+2017-04-08 14:51:38,399: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 14:52:23,410: DEBUG: New client connected ('10.43.13.71', 55871)
+2017-04-08 14:52:23,412: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 14:52:36,370: DEBUG: New client connected ('10.43.13.71', 55873)
+2017-04-08 14:52:36,372: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 15:05:23,113: DEBUG: New client connected ('10.43.13.71', 55893)
+2017-04-08 15:05:23,115: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:05:26,457: DEBUG: New client connected ('10.43.13.71', 55895)
+2017-04-08 15:05:26,460: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 15:08:54,233: DEBUG: New client connected ('10.43.13.71', 55903)
+2017-04-08 15:08:54,235: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:08:57,678: DEBUG: New client connected ('10.43.13.71', 55905)
+2017-04-08 15:08:57,682: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 15:13:12,072: DEBUG: New client connected ('10.43.13.71', 55911)
+2017-04-08 15:13:12,074: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 15:16:21,086: DEBUG: New client connected ('10.43.13.71', 55913)
+2017-04-08 15:22:28,237: DEBUG: New client connected ('10.43.13.71', 55915)
+2017-04-08 15:22:33,211: DEBUG: New client connected ('10.43.13.71', 55917)
+2017-04-08 15:22:50,038: DEBUG: New client connected ('10.43.13.71', 55919)
+2017-04-08 15:22:50,041: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:24:34,612: DEBUG: New client connected ('10.43.13.71', 55921)
+2017-04-08 15:24:34,614: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:24:37,960: DEBUG: New client connected ('10.43.13.71', 55923)
+2017-04-08 15:24:37,962: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 15:24:42,632: DEBUG: New client connected ('10.43.13.71', 55925)
+2017-04-08 15:24:46,028: DEBUG: New client connected ('10.43.13.71', 55927)
+2017-04-08 15:24:49,010: DEBUG: New client connected ('10.43.13.71', 55929)
+2017-04-08 15:25:26,816: DEBUG: New client connected ('10.43.13.71', 55931)
+2017-04-08 15:25:26,819: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:25:31,958: DEBUG: New client connected ('10.43.13.71', 55933)
+2017-04-08 15:25:31,964: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 15:26:12,303: DEBUG: New client connected ('10.43.13.71', 55936)
+2017-04-08 15:26:18,490: DEBUG: New client connected ('10.43.13.71', 55938)
+2017-04-08 15:26:27,030: DEBUG: New client connected ('10.43.13.71', 55940)
+2017-04-08 15:26:27,032: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:26:34,411: DEBUG: New client connected ('10.43.13.71', 55942)
+2017-04-08 15:26:34,412: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:26:42,370: DEBUG: New client connected ('10.43.13.71', 55944)
+2017-04-08 15:26:42,372: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:26:52,462: DEBUG: New client connected ('10.43.13.71', 55946)
+2017-04-08 15:26:57,793: DEBUG: New client connected ('10.43.13.71', 55948)
+2017-04-08 15:26:57,795: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 15:28:37,524: DEBUG: New client connected ('10.43.13.71', 55950)
+2017-04-08 15:28:37,526: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:28:39,342: DEBUG: New client connected ('10.43.13.71', 55952)
+2017-04-08 15:28:44,702: DEBUG: New client connected ('10.43.13.71', 55954)
+2017-04-08 15:28:53,510: DEBUG: New client connected ('10.43.13.71', 55956)
+2017-04-08 15:28:53,512: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:29:00,669: DEBUG: New client connected ('10.43.13.71', 55958)
+2017-04-08 15:29:00,671: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 15:29:07,638: DEBUG: New client connected ('10.43.13.71', 55960)
+2017-04-08 16:00:59,375: DEBUG: New client connected ('10.43.13.71', 55963)
+2017-04-08 16:00:59,377: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:13:01,737: DEBUG: New client connected ('10.43.13.71', 55965)
+2017-04-08 16:13:06,066: DEBUG: New client connected ('10.43.13.71', 55967)
+2017-04-08 16:13:06,068: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:13:21,114: DEBUG: New client connected ('10.43.13.71', 55969)
+2017-04-08 16:13:35,445: DEBUG: New client connected ('10.43.13.71', 55971)
+2017-04-08 16:13:42,916: DEBUG: New client connected ('10.43.13.71', 55973)
+2017-04-08 16:13:53,726: DEBUG: New client connected ('10.43.13.71', 55975)
+2017-04-08 16:14:03,282: DEBUG: New client connected ('10.43.13.71', 55977)
+2017-04-08 16:14:03,284: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:14:29,669: DEBUG: New client connected ('10.43.13.71', 55979)
+2017-04-08 16:14:36,562: DEBUG: New client connected ('10.43.13.71', 55981)
+2017-04-08 16:14:41,551: DEBUG: New client connected ('10.43.13.71', 55983)
+2017-04-08 16:14:50,630: DEBUG: New client connected ('10.43.13.71', 55985)
+2017-04-08 16:14:50,633: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:14:57,140: DEBUG: New client connected ('10.43.13.71', 55987)
+2017-04-08 16:15:00,526: DEBUG: New client connected ('10.43.13.71', 55989)
+2017-04-08 16:15:15,212: DEBUG: New client connected ('10.43.13.71', 55991)
+2017-04-08 16:15:15,213: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:15:25,585: DEBUG: New client connected ('10.43.13.71', 55993)
+2017-04-08 16:15:42,581: DEBUG: New client connected ('10.43.13.71', 55995)
+2017-04-08 16:15:49,890: DEBUG: New client connected ('10.43.13.71', 55997)
+2017-04-08 16:15:55,141: DEBUG: New client connected ('10.43.13.71', 55999)
+2017-04-08 16:16:00,885: DEBUG: New client connected ('10.43.13.71', 56001)
+2017-04-08 16:16:06,717: DEBUG: New client connected ('10.43.13.71', 56003)
+2017-04-08 16:17:10,437: DEBUG: New client connected ('10.43.13.71', 56005)
+2017-04-08 16:17:15,045: DEBUG: New client connected ('10.43.13.71', 56007)
+2017-04-08 16:17:23,991: DEBUG: New client connected ('10.43.13.71', 56009)
+2017-04-08 16:17:46,237: DEBUG: New client connected ('10.43.13.71', 56011)
+2017-04-08 16:17:56,261: DEBUG: New client connected ('10.43.13.71', 56013)
+2017-04-08 16:17:56,263: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:18:04,222: DEBUG: New client connected ('10.43.13.71', 56015)
+2017-04-08 16:18:04,224: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:19:01,248: DEBUG: New client connected ('10.43.13.71', 56018)
+2017-04-08 16:19:37,676: DEBUG: New client connected ('10.43.13.71', 56020)
+2017-04-08 16:19:44,500: DEBUG: New client connected ('10.43.13.71', 56022)
+2017-04-08 16:19:44,502: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:19:58,516: DEBUG: New client connected ('10.43.13.71', 56024)
+2017-04-08 16:20:12,400: DEBUG: New client connected ('10.43.13.71', 56026)
+2017-04-08 16:20:12,402: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:20:18,355: DEBUG: New client connected ('10.43.13.71', 56028)
+2017-04-08 16:20:18,357: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:20:24,955: DEBUG: New client connected ('10.43.13.71', 56030)
+2017-04-08 16:20:24,957: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:20:34,030: DEBUG: New client connected ('10.43.13.71', 56032)
+2017-04-08 16:20:34,033: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:20:35,682: DEBUG: New client connected ('10.43.13.71', 56034)
+2017-04-08 16:20:35,684: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:24:08,024: DEBUG: New client connected ('10.43.13.71', 56043)
+2017-04-08 16:24:08,026: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:24:43,939: DEBUG: New client connected ('10.43.13.71', 56045)
+2017-04-08 16:24:43,941: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:24:51,627: DEBUG: New client connected ('10.43.13.71', 56048)
+2017-04-08 16:24:51,630: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:25:02,121: DEBUG: New client connected ('10.43.13.71', 56050)
+2017-04-08 16:25:10,005: DEBUG: New client connected ('10.43.13.71', 56052)
+2017-04-08 16:25:10,007: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:25:20,083: DEBUG: New client connected ('10.43.13.71', 56054)
+2017-04-08 16:25:20,086: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:25:23,941: DEBUG: New client connected ('10.43.13.71', 56056)
+2017-04-08 16:25:23,943: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:25:36,201: DEBUG: New client connected ('10.43.13.71', 56058)
+2017-04-08 16:25:36,203: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:27:57,574: DEBUG: New client connected ('10.43.13.71', 56069)
+2017-04-08 16:27:59,438: DEBUG: New client connected ('10.43.13.71', 56071)
+2017-04-08 16:27:59,441: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:28:03,003: DEBUG: New client connected ('10.43.13.71', 56073)
+2017-04-08 16:28:03,005: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:28:06,735: DEBUG: New client connected ('10.43.13.71', 56075)
+2017-04-08 16:28:09,788: DEBUG: New client connected ('10.43.13.71', 56077)
+2017-04-08 16:28:09,791: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:29:30,184: DEBUG: New client connected ('10.43.13.71', 56079)
+2017-04-08 16:29:30,186: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:29:35,956: DEBUG: New client connected ('10.43.13.71', 56081)
+2017-04-08 16:29:35,958: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:29:45,534: DEBUG: New client connected ('10.43.13.71', 56083)
+2017-04-08 16:29:45,536: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:29:53,381: DEBUG: New client connected ('10.43.13.71', 56085)
+2017-04-08 16:30:02,140: DEBUG: New client connected ('10.43.13.71', 56087)
+2017-04-08 16:30:11,894: DEBUG: New client connected ('10.43.13.71', 56089)
+2017-04-08 16:30:45,387: DEBUG: New client connected ('10.43.13.71', 56091)
+2017-04-08 16:30:45,390: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:31:28,561: DEBUG: New client connected ('10.43.13.71', 56093)
+2017-04-08 16:31:28,563: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:32:24,272: DEBUG: New client connected ('10.43.13.71', 56095)
+2017-04-08 16:32:24,274: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:32:27,427: DEBUG: New client connected ('10.43.13.71', 56097)
+2017-04-08 16:32:27,431: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:32:30,279: DEBUG: New client connected ('10.43.13.71', 56099)
+2017-04-08 16:32:38,854: DEBUG: New client connected ('10.43.13.71', 56101)
+2017-04-08 16:32:48,266: DEBUG: New client connected ('10.43.13.71', 56103)
+2017-04-08 16:33:00,747: DEBUG: New client connected ('10.43.13.71', 56105)
+2017-04-08 16:33:00,751: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:33:05,791: DEBUG: New client connected ('10.43.13.71', 56107)
+2017-04-08 16:33:11,508: DEBUG: New client connected ('10.43.13.71', 56109)
+2017-04-08 16:33:11,517: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:36:05,550: DEBUG: New client connected ('10.43.13.71', 56111)
+2017-04-08 16:36:18,907: DEBUG: New client connected ('10.43.13.71', 56113)
+2017-04-08 16:36:18,909: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 16:36:31,847: DEBUG: New client connected ('10.43.13.71', 56115)
+2017-04-08 16:36:31,850: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:39:43,052: DEBUG: New client connected ('10.43.13.71', 56117)
+2017-04-08 16:39:48,557: DEBUG: New client connected ('10.43.13.71', 56119)
+2017-04-08 16:39:54,289: DEBUG: New client connected ('10.43.13.71', 56121)
+2017-04-08 16:39:54,291: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 16:40:00,214: DEBUG: New client connected ('10.43.13.71', 56123)
+2017-04-08 17:16:48,070: INFO: Pins initialized
+2017-04-08 17:16:48,075: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 17:16:48,077: DEBUG: Binding to port 9988
+2017-04-08 17:17:02,131: DEBUG: New client connected ('10.43.13.71', 56125)
+2017-04-08 17:17:04,999: DEBUG: New client connected ('10.43.13.71', 56127)
+2017-04-08 17:17:05,001: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 17:17:11,471: DEBUG: New client connected ('10.43.13.71', 56129)
+2017-04-08 17:17:15,260: DEBUG: New client connected ('10.43.13.71', 56131)
+2017-04-08 17:17:15,262: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 17:17:37,731: DEBUG: New client connected ('10.43.13.71', 56133)
+2017-04-08 17:17:44,185: DEBUG: New client connected ('10.43.13.71', 56135)
+2017-04-08 17:17:51,632: DEBUG: New client connected ('10.43.13.71', 56137)
+2017-04-08 17:17:54,917: DEBUG: New client connected ('10.43.13.71', 56139)
+2017-04-08 17:30:25,349: INFO: Pins initialized
+2017-04-08 17:30:25,355: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 17:30:25,358: DEBUG: Binding to port 9988
+2017-04-08 17:30:48,895: DEBUG: New client connected ('10.43.13.71', 56141)
+2017-04-08 17:31:00,914: DEBUG: New client connected ('10.43.13.71', 56144)
+2017-04-08 17:31:07,932: DEBUG: New client connected ('10.43.13.71', 56146)
+2017-04-08 17:31:54,675: DEBUG: New client connected ('10.43.13.71', 56148)
+2017-04-08 17:31:54,677: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 17:32:12,843: DEBUG: New client connected ('10.43.13.71', 56150)
+2017-04-08 17:32:50,348: DEBUG: New client connected ('10.43.13.71', 56152)
+2017-04-08 17:32:50,352: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 17:33:08,832: DEBUG: New client connected ('10.43.13.71', 56154)
+2017-04-08 17:33:08,834: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 17:33:18,652: DEBUG: New client connected ('10.43.13.71', 56156)
+2017-04-08 17:33:18,654: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 17:42:17,888: DEBUG: New client connected ('10.43.13.71', 56158)
+2017-04-08 17:42:27,525: DEBUG: New client connected ('10.43.13.71', 56160)
+2017-04-08 17:42:30,889: DEBUG: New client connected ('10.43.13.71', 56162)
+2017-04-08 17:42:40,269: DEBUG: New client connected ('10.43.13.71', 56164)
+2017-04-08 18:08:59,756: DEBUG: New client connected ('10.43.13.71', 56167)
+2017-04-08 18:09:07,631: DEBUG: New client connected ('10.43.13.71', 56169)
+2017-04-08 18:30:29,265: DEBUG: New client connected ('10.43.13.71', 56172)
+2017-04-08 18:30:32,000: DEBUG: New client connected ('10.43.13.71', 56174)
+2017-04-08 18:30:41,021: DEBUG: New client connected ('10.43.13.71', 56176)
+2017-04-08 18:30:49,111: DEBUG: New client connected ('10.43.13.71', 56178)
+2017-04-08 18:31:07,644: DEBUG: New client connected ('10.43.13.71', 56180)
+2017-04-08 18:31:33,752: DEBUG: New client connected ('10.43.13.71', 56182)
+2017-04-08 18:36:47,675: DEBUG: New client connected ('10.43.13.71', 56190)
+2017-04-08 18:36:47,677: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 18:36:51,256: DEBUG: New client connected ('10.43.13.71', 56192)
+2017-04-08 18:36:51,258: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 18:37:23,108: DEBUG: New client connected ('10.43.13.71', 56195)
+2017-04-08 18:37:23,111: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 18:37:29,584: DEBUG: New client connected ('10.43.13.71', 56197)
+2017-04-08 18:37:29,586: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 18:37:34,747: DEBUG: New client connected ('10.43.13.71', 56199)
+2017-04-08 18:37:34,752: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 18:49:58,057: INFO: Pins initialized
+2017-04-08 18:49:58,062: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 18:49:58,064: DEBUG: Binding to port 9988
+2017-04-08 18:50:21,641: DEBUG: New client connected ('10.43.13.71', 56205)
+2017-04-08 18:55:35,852: DEBUG: New client connected ('10.43.13.71', 56217)
+2017-04-08 18:56:12,814: INFO: Pins initialized
+2017-04-08 18:56:12,819: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 18:56:29,525: INFO: Pins initialized
+2017-04-08 18:56:29,530: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 18:58:20,636: INFO: Pins initialized
+2017-04-08 18:58:20,641: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 18:58:20,644: DEBUG: Binding to port 9988
+2017-04-08 19:00:07,337: DEBUG: New client connected ('10.43.13.71', 56229)
+2017-04-08 19:02:49,014: DEBUG: New client connected ('10.43.13.71', 56238)
+2017-04-08 19:03:13,383: DEBUG: New client connected ('10.43.13.71', 56240)
+2017-04-08 19:39:41,488: DEBUG: New client connected ('10.43.13.71', 56248)
+2017-04-08 19:39:46,157: DEBUG: New client connected ('10.43.13.71', 56250)
+2017-04-08 19:39:46,160: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:39:50,325: DEBUG: New client connected ('10.43.13.71', 56252)
+2017-04-08 19:39:56,727: DEBUG: New client connected ('10.43.13.71', 56254)
+2017-04-08 19:40:06,319: DEBUG: New client connected ('10.43.13.71', 56256)
+2017-04-08 19:40:06,321: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:40:13,495: DEBUG: New client connected ('10.43.13.71', 56258)
+2017-04-08 19:40:43,161: DEBUG: New client connected ('10.43.13.71', 56259)
+2017-04-08 19:42:21,493: INFO: Pins initialized
+2017-04-08 19:42:21,498: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 19:42:21,501: DEBUG: Binding to port 9988
+2017-04-08 19:42:35,948: DEBUG: New client connected ('10.43.13.71', 56261)
+2017-04-08 19:42:35,955: DEBUG: Received: 
+2017-04-08 19:42:43,691: DEBUG: New client connected ('10.43.13.71', 56263)
+2017-04-08 19:42:43,693: DEBUG: Received: off
+2017-04-08 19:42:43,695: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:43:59,900: DEBUG: New client connected ('10.43.13.71', 56265)
+2017-04-08 19:43:59,904: DEBUG: Received: 
+2017-04-08 19:44:09,861: DEBUG: New client connected ('10.43.13.71', 56267)
+2017-04-08 19:44:09,863: DEBUG: Received: 
+2017-04-08 19:44:13,384: DEBUG: New client connected ('10.43.13.71', 56269)
+2017-04-08 19:44:13,386: DEBUG: Received: off
+2017-04-08 19:44:13,387: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:44:49,226: DEBUG: New client connected ('10.43.13.71', 56271)
+2017-04-08 19:44:49,228: DEBUG: Received: 
+2017-04-08 19:45:03,373: DEBUG: New client connected ('10.43.13.71', 56273)
+2017-04-08 19:45:03,375: DEBUG: Received: off
+2017-04-08 19:45:03,376: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:46:20,930: DEBUG: New client connected ('10.43.13.71', 56275)
+2017-04-08 19:46:20,932: DEBUG: Received: 
+2017-04-08 19:47:22,461: DEBUG: New client connected ('10.43.13.71', 56277)
+2017-04-08 19:47:22,465: DEBUG: Received: on
+2017-04-08 19:47:22,467: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:47:25,766: DEBUG: New client connected ('10.43.13.71', 56279)
+2017-04-08 19:47:25,768: DEBUG: Received: off
+2017-04-08 19:47:25,771: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:47:28,381: DEBUG: New client connected ('10.43.13.71', 56281)
+2017-04-08 19:47:28,383: DEBUG: Received: on
+2017-04-08 19:47:28,384: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:47:31,875: DEBUG: New client connected ('10.43.13.71', 56283)
+2017-04-08 19:47:31,877: DEBUG: Received: off
+2017-04-08 19:47:31,879: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:47:38,280: DEBUG: New client connected ('10.43.13.71', 56285)
+2017-04-08 19:47:38,282: DEBUG: Received: on
+2017-04-08 19:47:38,283: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:47:43,482: DEBUG: New client connected ('10.43.13.71', 56287)
+2017-04-08 19:47:43,491: DEBUG: Received: off
+2017-04-08 19:47:43,493: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:47:47,158: DEBUG: New client connected ('10.43.13.71', 56289)
+2017-04-08 19:47:47,164: DEBUG: Received: 
+2017-04-08 19:47:55,990: DEBUG: New client connected ('10.43.13.71', 56291)
+2017-04-08 19:47:55,992: DEBUG: Received: on
+2017-04-08 19:47:55,994: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:48:02,494: DEBUG: New client connected ('10.43.13.71', 56293)
+2017-04-08 19:48:02,497: DEBUG: Received: off
+2017-04-08 19:48:02,499: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:48:08,046: DEBUG: New client connected ('10.43.13.71', 56295)
+2017-04-08 19:48:08,048: DEBUG: Received: 
+2017-04-08 19:49:56,788: DEBUG: New client connected ('10.43.13.71', 56297)
+2017-04-08 19:49:56,791: DEBUG: Received: 
+2017-04-08 19:50:04,222: DEBUG: New client connected ('10.43.13.71', 56298)
+2017-04-08 19:50:04,224: DEBUG: Received: get_time
+2017-04-08 19:50:14,248: DEBUG: New client connected ('10.43.13.71', 56300)
+2017-04-08 19:50:14,254: DEBUG: Received: on
+2017-04-08 19:50:14,256: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:50:29,827: DEBUG: New client connected ('10.43.13.71', 56302)
+2017-04-08 19:50:29,832: DEBUG: Received: off
+2017-04-08 19:50:29,834: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:50:50,730: DEBUG: New client connected ('10.43.13.71', 56304)
+2017-04-08 19:50:50,732: DEBUG: Received: on
+2017-04-08 19:50:50,734: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:51:09,143: DEBUG: New client connected ('10.43.13.71', 56306)
+2017-04-08 19:51:09,145: DEBUG: Received: off
+2017-04-08 19:51:09,147: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:51:27,942: DEBUG: New client connected ('10.43.13.71', 56308)
+2017-04-08 19:51:27,944: DEBUG: Received: get_time
+2017-04-08 19:52:54,328: DEBUG: New client connected ('10.43.13.71', 56310)
+2017-04-08 19:52:54,333: DEBUG: Received: 
+2017-04-08 19:52:57,392: DEBUG: New client connected ('10.43.13.71', 56312)
+2017-04-08 19:52:57,394: DEBUG: Received: 
+2017-04-08 19:52:59,892: DEBUG: New client connected ('10.43.13.71', 56314)
+2017-04-08 19:52:59,894: DEBUG: Received: 
+2017-04-08 19:53:06,354: DEBUG: New client connected ('10.43.13.71', 56316)
+2017-04-08 19:53:06,356: DEBUG: Received: 
+2017-04-08 19:53:13,660: DEBUG: New client connected ('10.43.13.71', 56318)
+2017-04-08 19:53:13,662: DEBUG: Received: on
+2017-04-08 19:53:13,664: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:53:19,694: DEBUG: New client connected ('10.43.13.71', 56320)
+2017-04-08 19:53:19,696: DEBUG: Received: off
+2017-04-08 19:53:19,698: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 19:53:24,218: DEBUG: New client connected ('10.43.13.71', 56322)
+2017-04-08 19:53:24,223: DEBUG: Received: on
+2017-04-08 19:53:24,225: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 19:56:09,054: INFO: Pins initialized
+2017-04-08 19:56:09,059: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 19:56:09,062: DEBUG: Binding to port 9988
+2017-04-08 19:56:14,440: DEBUG: New client connected ('10.43.13.71', 56324)
+2017-04-08 19:56:14,450: DEBUG: Received: off
+2017-04-08 19:56:14,452: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:13:01,997: INFO: Pins initialized
+2017-04-08 20:14:00,597: INFO: Pins initialized
+2017-04-08 20:14:00,603: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:14:00,607: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:14:02,614: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:14:04,628: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:14:06,635: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:14:08,641: INFO: Resseting pins for cleanup
+2017-04-08 20:14:47,667: INFO: Pins initialized
+2017-04-08 20:14:47,672: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:15:12,483: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:15:17,916: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:15:54,388: INFO: Pins initialized
+2017-04-08 20:15:54,393: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:15:54,397: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:15:56,406: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:15:58,413: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:16:00,419: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:16:02,426: INFO: Resseting pins for cleanup
+2017-04-08 20:16:36,765: INFO: Pins initialized
+2017-04-08 20:16:36,768: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:16:58,466: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:17:10,524: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:17:13,961: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:17:22,288: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:18:50,040: INFO: Pins initialized
+2017-04-08 20:18:50,043: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:20:07,042: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:32:36,912: INFO: Pins initialized
+2017-04-08 20:32:36,917: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:32:36,919: DEBUG: Binding to port 9988
+2017-04-08 20:32:47,570: DEBUG: New client connected ('10.43.13.71', 56340)
+2017-04-08 20:32:47,572: DEBUG: Received: on
+2017-04-08 20:32:47,574: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:32:51,365: DEBUG: New client connected ('10.43.13.71', 56342)
+2017-04-08 20:32:51,367: DEBUG: Received: off
+2017-04-08 20:32:51,370: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:33:25,975: DEBUG: New client connected ('10.43.13.71', 56344)
+2017-04-08 20:33:25,977: DEBUG: Received: 
+2017-04-08 20:33:28,561: DEBUG: New client connected ('10.43.13.71', 56346)
+2017-04-08 20:33:28,563: DEBUG: Received: 
+2017-04-08 20:33:31,241: DEBUG: New client connected ('10.43.13.71', 56348)
+2017-04-08 20:33:31,248: DEBUG: Received: 
+2017-04-08 20:48:27,497: INFO: Pins initialized
+2017-04-08 20:48:27,503: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:48:27,505: DEBUG: Binding to port 9988
+2017-04-08 20:48:40,312: DEBUG: New client connected ('10.43.13.71', 56350)
+2017-04-08 20:48:40,314: DEBUG: Received: 
+2017-04-08 20:48:44,124: DEBUG: New client connected ('10.43.13.71', 56352)
+2017-04-08 20:48:44,126: DEBUG: Received: 
+2017-04-08 20:48:47,717: DEBUG: New client connected ('10.43.13.71', 56354)
+2017-04-08 20:48:47,720: DEBUG: Received: on
+2017-04-08 20:48:47,722: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:48:56,476: DEBUG: New client connected ('10.43.13.71', 56356)
+2017-04-08 20:48:56,478: DEBUG: Received: 
+2017-04-08 20:49:04,221: DEBUG: New client connected ('10.43.13.71', 56358)
+2017-04-08 20:49:04,224: DEBUG: Received: 
+2017-04-08 20:49:19,918: DEBUG: New client connected ('10.43.13.71', 56360)
+2017-04-08 20:49:19,923: DEBUG: Received: 
+2017-04-08 20:50:08,728: DEBUG: New client connected ('10.43.13.71', 56362)
+2017-04-08 20:50:08,734: DEBUG: Received: off
+2017-04-08 20:50:08,736: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:50:11,313: DEBUG: New client connected ('10.43.13.71', 56364)
+2017-04-08 20:50:11,316: DEBUG: Received: 
+2017-04-08 20:50:38,708: INFO: Pins initialized
+2017-04-08 20:50:38,722: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:50:38,724: DEBUG: Binding to port 9988
+2017-04-08 20:50:50,078: DEBUG: New client connected ('10.43.13.71', 56366)
+2017-04-08 20:50:50,081: DEBUG: Received: on
+2017-04-08 20:50:50,083: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-08 20:50:52,451: DEBUG: New client connected ('10.43.13.71', 56368)
+2017-04-08 20:50:52,453: DEBUG: Received: off
+2017-04-08 20:50:52,455: DEBUG: setting GPIO pin 18 to LOW
+2017-04-08 20:50:55,607: DEBUG: New client connected ('10.43.13.71', 56370)
+2017-04-08 20:50:55,614: DEBUG: Received: 
+2017-04-08 20:51:56,436: INFO: Pins initialized
+2017-04-08 20:51:56,441: DEBUG: setting GPIO pin 18 to OUT
+2017-04-08 20:51:56,443: DEBUG: Binding to port 9988
+2017-04-08 20:52:03,034: DEBUG: New client connected ('10.43.13.71', 56372)
+2017-04-08 20:52:03,036: DEBUG: Received: 
+2017-04-08 20:52:21,789: DEBUG: New client connected ('10.43.13.71', 56374)
+2017-04-08 20:52:21,795: DEBUG: Received: 
+2017-04-08 20:52:29,865: DEBUG: New client connected ('10.43.13.71', 56376)
+2017-04-08 20:52:29,872: DEBUG: Received: on
+2017-04-08 20:52:46,428: INFO: Pins initialized
+2017-04-08 20:52:46,436: DEBUG: setting GPIO pin 18 to OUT
+2017-04-09 01:05:26,404: INFO: Pins initialized
+2017-04-09 01:05:26,411: DEBUG: setting GPIO pin 18 to OUT
+2017-04-09 01:05:26,414: DEBUG: Binding to port 9988
+2017-04-09 01:05:43,902: DEBUG: New client connected ('10.43.13.71', 56396)
+2017-04-09 01:05:43,905: DEBUG: Received: 
+2017-04-09 01:06:22,340: DEBUG: New client connected ('10.43.13.71', 56398)
+2017-04-09 01:06:22,343: DEBUG: Received: on
+2017-04-09 01:07:42,892: INFO: Pins initialized
+2017-04-09 01:07:42,898: DEBUG: setting GPIO pin 18 to OUT
+2017-04-09 01:07:42,901: DEBUG: Binding to port 9988
+2017-04-09 01:07:55,914: DEBUG: New client connected ('10.43.13.71', 56406)
+2017-04-09 01:07:55,917: DEBUG: Received: 
+2017-04-09 01:08:02,656: DEBUG: New client connected ('10.43.13.71', 56408)
+2017-04-09 01:08:02,662: DEBUG: Received: on
+2017-04-09 01:08:02,664: DEBUG: current state of light is 0
+2017-04-09 01:08:02,667: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 01:08:10,909: DEBUG: New client connected ('10.43.13.71', 56410)
+2017-04-09 01:08:10,912: DEBUG: Received: off
+2017-04-09 01:08:10,914: DEBUG: current state of light is 1
+2017-04-09 01:08:10,916: DEBUG: setting GPIO pin 18 to LOW
+2017-04-09 01:26:23,384: DEBUG: New client connected ('10.43.13.71', 56413)
+2017-04-09 01:26:23,389: DEBUG: Received: 
+2017-04-09 01:26:27,150: DEBUG: New client connected ('10.43.13.71', 56415)
+2017-04-09 01:26:27,152: DEBUG: Received: on
+2017-04-09 01:26:27,154: DEBUG: current state of light is 0
+2017-04-09 01:26:27,156: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 01:26:32,119: DEBUG: New client connected ('10.43.13.71', 56417)
+2017-04-09 01:26:32,122: DEBUG: Received: off
+2017-04-09 01:26:32,124: DEBUG: current state of light is 1
+2017-04-09 01:26:32,126: DEBUG: setting GPIO pin 18 to LOW
+2017-04-09 01:26:36,688: DEBUG: New client connected ('10.43.13.71', 56419)
+2017-04-09 01:26:36,694: DEBUG: Received: on
+2017-04-09 01:26:36,696: DEBUG: current state of light is 0
+2017-04-09 01:26:36,698: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 01:26:44,475: DEBUG: New client connected ('10.43.13.71', 56422)
+2017-04-09 01:26:44,477: DEBUG: Received: on
+2017-04-09 01:26:44,481: DEBUG: current state of light is 1
+2017-04-09 01:27:02,875: DEBUG: New client connected ('10.43.13.71', 56424)
+2017-04-09 01:27:02,878: DEBUG: Received: off
+2017-04-09 01:27:02,881: DEBUG: current state of light is 1
+2017-04-09 01:27:02,883: DEBUG: setting GPIO pin 18 to LOW
+2017-04-09 01:33:27,252: DEBUG: New client connected ('10.43.13.71', 56426)
+2017-04-09 01:33:27,257: DEBUG: Received: 
+2017-04-09 01:33:37,566: DEBUG: New client connected ('10.43.13.71', 56428)
+2017-04-09 01:33:37,571: DEBUG: Received: on
+2017-04-09 01:33:37,574: DEBUG: current state of light is 0
+2017-04-09 01:33:37,576: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 01:33:56,313: DEBUG: New client connected ('10.43.13.71', 56430)
+2017-04-09 01:33:56,316: DEBUG: Received: off
+2017-04-09 01:33:56,319: DEBUG: current state of light is 1
+2017-04-09 01:33:56,321: DEBUG: setting GPIO pin 18 to LOW
+2017-04-09 01:34:09,084: DEBUG: New client connected ('10.43.13.71', 56431)
+2017-04-09 01:34:09,086: DEBUG: Received: get_time
+2017-04-09 01:34:39,930: DEBUG: New client connected ('10.43.13.71', 56433)
+2017-04-09 01:34:39,933: DEBUG: Received: current state of light
+2017-04-09 01:35:08,254: DEBUG: New client connected ('10.43.13.71', 56435)
+2017-04-09 01:35:08,257: DEBUG: Received: 
+2017-04-09 01:35:29,725: DEBUG: New client connected ('10.43.13.71', 56437)
+2017-04-09 01:35:29,728: DEBUG: Received: on
+2017-04-09 01:35:29,731: DEBUG: current state of light is 0
+2017-04-09 01:35:29,734: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 01:35:35,724: DEBUG: New client connected ('10.43.13.71', 56439)
+2017-04-09 01:35:35,726: DEBUG: Received: off
+2017-04-09 01:35:35,730: DEBUG: current state of light is 1
+2017-04-09 01:35:35,732: DEBUG: setting GPIO pin 18 to LOW
+2017-04-09 01:36:16,941: DEBUG: New client connected ('10.43.13.71', 56441)
+2017-04-09 01:36:16,944: DEBUG: Received: on
+2017-04-09 01:36:16,946: DEBUG: current state of light is 0
+2017-04-09 01:36:16,950: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 01:36:21,134: DEBUG: New client connected ('10.43.13.71', 56443)
+2017-04-09 01:36:21,137: DEBUG: Received: off
+2017-04-09 01:36:21,140: DEBUG: current state of light is 0
+2017-04-09 01:36:34,662: DEBUG: New client connected ('10.43.13.71', 56445)
+2017-04-09 01:36:34,664: DEBUG: Received: off
+2017-04-09 01:36:34,667: DEBUG: current state of light is 1
+2017-04-09 01:36:34,670: DEBUG: setting GPIO pin 18 to LOW
+2017-04-09 01:43:15,071: DEBUG: New client connected ('10.43.13.71', 56447)
+2017-04-09 01:43:15,076: DEBUG: Received: on
+2017-04-09 01:43:15,078: DEBUG: current state of light is 0
+2017-04-09 01:43:15,080: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 01:43:18,232: DEBUG: New client connected ('10.43.13.71', 56449)
+2017-04-09 01:43:18,235: DEBUG: Received: off
+2017-04-09 01:43:18,237: DEBUG: current state of light is 1
+2017-04-09 01:43:18,240: DEBUG: setting GPIO pin 18 to LOW
+2017-04-09 02:12:19,613: DEBUG: New client connected ('10.43.13.71', 56452)
+2017-04-09 02:12:19,616: DEBUG: Received: 
+2017-04-09 02:12:24,277: DEBUG: New client connected ('10.43.13.71', 56454)
+2017-04-09 02:12:24,283: DEBUG: Received: 
+2017-04-09 02:12:33,303: DEBUG: New client connected ('10.43.13.71', 56456)
+2017-04-09 02:12:33,305: DEBUG: Received: 
+2017-04-09 02:12:38,023: DEBUG: New client connected ('10.43.13.71', 56458)
+2017-04-09 02:12:38,025: DEBUG: Received: 
+2017-04-09 02:12:48,185: DEBUG: New client connected ('10.43.13.71', 56460)
+2017-04-09 02:12:48,188: DEBUG: Received: on
+2017-04-09 02:12:48,191: DEBUG: current state of light is 0
+2017-04-09 02:12:48,193: DEBUG: setting GPIO pin 18 to HIGH
+2017-04-09 02:13:21,559: DEBUG: New client connected ('10.43.13.71', 56462)
+2017-04-09 02:13:21,561: DEBUG: Received: off
+2017-04-09 02:13:21,563: DEBUG: current state of light is 1
+2017-04-09 02:13:21,565: DEBUG: setting GPIO pin 18 to LOW
